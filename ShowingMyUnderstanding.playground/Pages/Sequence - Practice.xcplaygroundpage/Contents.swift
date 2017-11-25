@@ -38,6 +38,10 @@ canvas.drawShapesWithBorders = false
 canvas.defaultLineWidth = 5
 
 // Add your code below... remember to use comments to indicate your intent
+// Green
+canvas.fillColor = Color(hue:60, saturation: 80, brightness:90, alpha: 50)
+
+// hi mr gordon 
 /*:
  ## Template code
  The code below is necessary to see results in the Assistant Editor at right. Please do not remove.
